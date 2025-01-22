@@ -105,7 +105,7 @@ const ContactUs = () => {
           <h2 className="text-center text-3xl font-bold mb-6">Our Office</h2>
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 p-4 animate-fadeInLeft">
-              <img src="./src/assets/bg2.jpg" alt="Our Office" className="rounded-lg shadow-lg" />
+              <img src="bg2.jpg" alt="Our Office" className="rounded-lg shadow-lg" />
             </div>
             <div className="md:w-1/2 p-4 animate-fadeInRight">
               <p className="text-lg leading-relaxed">

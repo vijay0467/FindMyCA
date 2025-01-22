@@ -8,7 +8,7 @@ const HomePage = () => {
       <section
         className="relative flex items-center justify-center h-[60vh] bg-contain rounded-3xl bg-center text-white animate-zoomOut mx-auto mt-2 overflow-hidden"
         style={{
-          backgroundImage: `url('/src/assets/home-bg.jpg')`,
+          backgroundImage: `url('home-bg.jpg')`,
           width: "90%", // Ensure the path is correct
         }}
       >

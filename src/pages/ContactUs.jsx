@@ -27,7 +27,7 @@ const ContactUs = () => {
       <section
         className="relative flex items-center justify-center h-[40vh] bg-contain bg-center rounded-[30px] overflow-hidden text-white mx-auto mt-3"
         style={{
-          backgroundImage: `url('./src/assets/bg3.jpg')`, // Add relevant background image
+          backgroundImage: `url('bg3.jpg')`, // Add relevant background image
           width: '80%',
           borderRadius: '50px',
         }}

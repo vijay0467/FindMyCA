@@ -78,17 +78,17 @@ const HomePage = () => {
               {
                 title: "Tax Consulting",
                 text: "Expert advice on tax planning and compliance to help you minimize your tax liabilities.",
-                image: "/src/assets/tc.jpg", // Ensure the path is correct
+                image: "tc.jpg", // Ensure the path is correct
               },
               {
                 title: "Audit & Assurance",
                 text: "Comprehensive audit and assurance services to ensure your financial statements are accurate.",
-                image: "/src/assets/aa.jpg", // Ensure the path is correct
+                image: "aa.jpg", // Ensure the path is correct
               },
               {
                 title: "Financial Planning",
                 text: "Personalized financial planning services to help you achieve your financial goals.",
-                image: "/src/assets/fp.png", // Ensure the path is correct
+                image: "fp.png", // Ensure the path is correct
               },
             ].map((service, index) => (
               <div
@@ -166,17 +166,17 @@ const HomePage = () => {
         {
           name: "Alice Johnson",
           role: "CEO",
-          image: "/src/assets/t1.webp", // Ensure the path is correct
+          image: "t1.webp", // Ensure the path is correct
         },
         {
           name: "Bob Williams",
           role: "CTO",
-          image: "/src/assets/t2.jpg", // Ensure the path is correct
+          image: "t2.jpg", // Ensure the path is correct
         },
         {
           name: "Charlie Brown",
           role: "CFO",
-          image: "/src/assets/t3.jpg", // Ensure the path is correct
+          image: "t3.jpg", // Ensure the path is correct
         },
       ].map((teamMember, index) => (
         <div
@@ -215,19 +215,19 @@ const HomePage = () => {
                 title: "Understanding Tax Deductions",
                 excerpt:
                   "Learn about the various tax deductions available and how you can take advantage of them.",
-                image: "/src/assets/td.png", // Ensure the path is correct
+                image: "td.png", // Ensure the path is correct
               },
               {
                 title: "Top Financial Planning Tips",
                 excerpt:
                   "Discover the best financial planning tips to help you achieve your financial goals.",
-                image: "/src/assets/fp1.jpg", // Ensure the path is correct
+                image: "fp1.jpg", // Ensure the path is correct
               },
               {
                 title: "How to Choose the Right CA",
                 excerpt:
                   "Find out what to look for when choosing a Chartered Accountant for your business.",
-                image: "/src/assets/caa.png", // Ensure the path is correct
+                image: "caa.png", // Ensure the path is correct
               },
             ].map((blog, index) => (
               <div

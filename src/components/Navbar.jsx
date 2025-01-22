@@ -11,7 +11,7 @@ const Navbar = () => {
           to="/"
         >
           <img
-            src="./src/assets/logo.jpg"
+            src="logo.jpg"
             alt="Logo"
             className="w-8 h-8 rounded-full mr-1"
           />

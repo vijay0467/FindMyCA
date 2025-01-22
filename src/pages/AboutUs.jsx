@@ -13,7 +13,7 @@ const AboutUs = () => {
       <section
         className="relative flex items-center justify-center h-[40vh] bg-cover bg-center rounded-[30px] overflow-hidden text-white mx-auto mt-3"
         style={{
-          backgroundImage: `url('./src/assets/bg1.jpg')`, width: "80%", borderRadius: "50px" // Add relevant background image
+          backgroundImage: `url('bg1.jpg')`, width: "80%", borderRadius: "50px" // Add relevant background image
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>

@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:3000'; // URL for JSON Server
+const API_BASE_URL = 'https://find-my-ca-coral.vercel.app/'; // URL for JSON Server
 
 export const fetchAccountants = async (query) => {
   try {
